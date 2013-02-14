@@ -5,7 +5,7 @@ using System.Threading;
 
 namespace BinaryRage
 {
-	internal static class Storage
+	public static class Storage
 	{
 		private const string DB_EXTENTION = ".odb";
 
